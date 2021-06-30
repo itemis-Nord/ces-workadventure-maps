@@ -1,2 +1,2 @@
-(()=>{"use strict";console.log("Script started successfully"),WA.openCoWebSite("https://workadventu.re")})();
+(()=>{"use strict";console.log("Script started successfully")})();
 //# sourceMappingURL=script.js.map
