@@ -55,7 +55,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/nord\/itemis-nord.github.io\/ces-workadventure-maps\/map_luenen.json"
+                 "value":"\/_\/luenen\/itemis-nord.github.io\/ces-workadventure-maps\/map_luenen.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -73,7 +73,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/nord\/itemis-nord.github.io\/ces-workadventure-maps\/map_leipzig.json"
+                 "value":"\/_\/leipzig\/itemis-nord.github.io\/ces-workadventure-maps\/map_leipzig.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -91,7 +91,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/nord\/itemis-nord.github.io\/ces-workadventure-maps\/map_frankfurt.json"
+                 "value":"\/_\/frankfurt\/itemis-nord.github.io\/ces-workadventure-maps\/map_frankfurt.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -109,7 +109,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/nord\/itemis-nord.github.io\/ces-workadventure-maps\/map_bonn.json"
+                 "value":"\/_\/bonn\/itemis-nord.github.io\/ces-workadventure-maps\/map_bonn.json"
                 }],
          "type":"tilelayer",
          "visible":true,
