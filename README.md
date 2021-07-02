@@ -44,9 +44,17 @@ To understand how to use this starter kit, follow the tutorial at [https://worka
   - "floorLayer" ObjectLayer is needed (rendering of characters happens here)
   - "start" layer used as the default entrypoint
   - Optinally jitsii-meeting layers for conferencing (one layer per meeting)
-  - Map currently in work can be tested with referencing their GitHub raw-links in the URL
-    - e.g.: https://workadventure.itemis.de/_/nord/raw.githubusercontent.com/itemis-Nord/ces-workadventure-maps/master/cloud-hub.json 
-  
+
+## Test maps during development
+
+1. Push your changes to a branch on GitHub
+2. Navigate to the changed file in the browser and open it (make sure to select the correct branch)
+3. Use the "Raw" link to access the map in an existing Work Adventure instance, e.g. `http://workadventure.your.domain/_/jitsiNamespace/raw.githubusercontent.com/.../map.json`
+
+## Deployment
+
+The maps are currently hosted on Github Pages. A merge to master triggers a Github Action which deploys the new maps.
+
 ## Ressources
 
 - [WorkAdventure Map-Building Tutorial](https://workadventu.re/map-building)
