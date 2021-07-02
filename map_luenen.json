@@ -190,12 +190,12 @@
         {
          "name":"mapLink",
          "type":"string",
-         "value":"https:\/\/github.com\/gparant\/tcm-client\/tree\/master\/TCM\/office-map"
+         "value":"https:\/\/github.com\/itemis-Nord\/ces-workadventure-maps\/blob\/master\/map_luenen.json"
         }, 
         {
          "name":"mapName",
          "type":"string",
-         "value":"Office"
+         "value":"Luenen Office"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.0",
