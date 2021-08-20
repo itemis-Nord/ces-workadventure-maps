@@ -145,12 +145,6 @@
          "id":20,
          "name":"portal-to-hub-top",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"exitUrl",
-                 "type":"string",
-                 "value":"\/_\/global\/raw.githubusercontent.com\/itemis-Nord\/ces-workadventure-maps\/cloud-hub\/hub\/hub.json#portal-from-frankfurt"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
