@@ -130,7 +130,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/nord\/itemis-nord.github.io\/ces-workadventure-maps\/cloud-hub.json#portal-from-frankfurt"
+                 "value":"\/_\/global\/itemis-nord.github.io\/ces-workadventure-maps\/cloud-hub.json#portal-from-frankfurt"
                 }],
          "tintcolor":"#ff32ff",
          "type":"tilelayer",

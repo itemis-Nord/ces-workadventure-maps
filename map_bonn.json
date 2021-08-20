@@ -131,7 +131,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/nord\/itemis-nord.github.io\/ces-workadventure-maps\/cloud-hub.json#portal-from-bonn"
+                 "value":"\/_\/global\/itemis-nord.github.io\/ces-workadventure-maps\/cloud-hub.json#portal-from-bonn"
                 }],
          "tintcolor":"#ff32ff",
          "type":"tilelayer",
