@@ -90,11 +90,6 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"office-map-meeting-table-a"
-                }, 
-                {
-                 "name":"jitsiTrigger",
-                 "type":"string",
-                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -113,11 +108,6 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"office-map-meeting-table-b"
-                }, 
-                {
-                 "name":"jitsiTrigger",
-                 "type":"string",
-                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
