@@ -64,7 +64,7 @@
                                 {
                                  "name":"exitUrl",
                                  "type":"string",
-                                 "value":"office.json#room04"
+                                 "value":"#room04"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -82,7 +82,7 @@
                                 {
                                  "name":"exitUrl",
                                  "type":"string",
-                                 "value":"office.json#hub"
+                                 "value":"#hub"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
