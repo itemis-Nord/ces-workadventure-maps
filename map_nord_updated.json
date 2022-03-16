@@ -700,7 +700,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/raw.githubusercontent.com\/itemis-Nord\/ces-workadventure-maps\/added_nord_office\/cloud-hub.json#portal-from-nord-updated"
+                 "value":"\/_\/global\/itemis-nord.github.io\/ces-workadventure-maps\/cloud-hub.json#portal-from-nord-updated"
                 }],
          "type":"tilelayer",
          "visible":true,

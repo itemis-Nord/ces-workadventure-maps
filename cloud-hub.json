@@ -278,7 +278,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/nord\/raw.githubusercontent.com\/itemis-Nord\/ces-workadventure-maps\/added_nord_office\/map_nord_updated.json"
+                 "value":"\/_\/nord\/itemis-nord.github.io\/ces-workadventure-maps\/map_nord_updated.json#portal-from-hub"
                 }],
          "tintcolor":"#ff32ff",
          "type":"tilelayer",
